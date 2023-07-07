@@ -18,6 +18,7 @@
         <module>string</module>
         <module>tree</module>
         <module>greedy</module>
+        <module>leetcode</module>
     </modules>
 
     <properties>
